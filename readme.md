@@ -6,6 +6,8 @@ Projects
 
 2024
 --
+- https://github.com/paiv/uklatn \
+  Ukrainian Cyrillic transliteration to Latin script
 - https://github.com/paiv/tag-input-swiftui \
   TokenField input in SwiftUI \
   <img src="https://github.com/user-attachments/assets/0037f425-36cc-47fb-b1a6-9033a27698d7" width="60">
