@@ -6,6 +6,8 @@ Projects
 
 2024
 --
+- https://github.com/paiv/template-py \
+  a template processor
 - https://github.com/paiv/uklatn \
   Ukrainian Cyrillic transliteration to Latin script
 - https://github.com/paiv/tag-input-swiftui \
