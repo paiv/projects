@@ -6,6 +6,8 @@ Projects
 
 2024
 --
+- https://github.com/paiv/aoc2024 \
+  AoC
 - https://github.com/paiv/template-py \
   a template processor
 - https://github.com/paiv/uklatn \
@@ -134,7 +136,7 @@ Projects
   Synacor VM assembler
 - https://gist.github.com/paiv/1e01aca5be1842fa09da5bb5f3934551 \
   Game of Life tutorial
-- https://github.com/paiv/swift-priorityqueue \
+- https://github.com/paiv/priorityqueue-swift \
   Priority queue in Swift
 - https://github.com/paiv/latynka \
   Browser extension to present Ukrainian Cyrillic in Latin script \
