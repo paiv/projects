@@ -6,6 +6,8 @@ Projects
 
 2024
 --
+- https://github.com/paiv/unqch \
+  Unpack QCH compressed help files
 - https://github.com/paiv/aoc2024 \
   AoC
 - https://github.com/paiv/template-py \
