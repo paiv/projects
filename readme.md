@@ -6,6 +6,8 @@ Projects
 
 2024
 --
+- https://paiv.github.io/vim-keyguide/ \
+  Vim commands in alphabetical order
 - https://github.com/paiv/unqch \
   Unpack QCH compressed help files
 - https://github.com/paiv/aoc2024 \
